@@ -1,3 +1,19 @@
+## 🏥 Project Overview
+## 🚀 Quick Start for Beginners
+
+This guide will help you set up and run OpenCare-Africa locally, even if you're new to Django.
+
+### 🔧 Prerequisites
+Make sure you have the following installed:
+- Python (3.10 or higher)
+- pip (Python package manager)
+- PostgreSQL
+- Git
+
+### 📥 1. Clone the Repository
+```bash
+git clone https://github.com/YOUR-USERNAME/opencare-africa.git
+cd opencare-africa
 # OpenCare-Africa
 
 A comprehensive health informatics platform backend built with Django, designed specifically for healthcare management in Africa.
