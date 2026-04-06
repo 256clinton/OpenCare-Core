@@ -416,6 +416,12 @@ docker run -e DJANGO_SETTINGS_MODULE=config.settings.production opencare-africa:
 4. Add tests for new functionality
 5. Ensure all tests pass
 6. Submit a pull request
+## API Testing
+
+### Health Endpoint
+Check if the API is running:
+```bash
+curl -X GET http://localhost:8000/health/
 
 ### Development Guidelines
 - Follow PEP 8 style guidelines
